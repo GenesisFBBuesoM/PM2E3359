@@ -31,3 +31,11 @@ Aplicación Android para la gestión de herramientas de mantenimiento y sus asig
 
 ---
 **Desarrollado para la clase de Programación Móvil I - I Periodo 2026**
+
+**Capturas de pantallas clave
+
+<img width="442" height="589" alt="image" src="https://github.com/user-attachments/assets/ca7a90a6-79ce-420c-996f-0900cec8a93b" />
+
+<img width="442" height="523" alt="image" src="https://github.com/user-attachments/assets/3a56f126-fa0b-4318-9796-a2cdcac3a20e" />
+
+
