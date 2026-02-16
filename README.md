@@ -32,10 +32,29 @@ Aplicación Android para la gestión de herramientas de mantenimiento y sus asig
 ---
 **Desarrollado para la clase de Programación Móvil I - I Periodo 2026**
 
-**Capturas de pantallas clave
+## Capturas de pantallas clave
 
 <img width="442" height="589" alt="image" src="https://github.com/user-attachments/assets/ca7a90a6-79ce-420c-996f-0900cec8a93b" />
 
 <img width="442" height="523" alt="image" src="https://github.com/user-attachments/assets/3a56f126-fa0b-4318-9796-a2cdcac3a20e" />
+
+<img width="442" height="642" alt="image" src="https://github.com/user-attachments/assets/2890624d-574e-468e-9241-b6693d17c988" />
+
+<img width="442" height="409" alt="image" src="https://github.com/user-attachments/assets/202a187e-1a55-4614-92ae-2570c53aa39d" />
+
+<img width="442" height="199" alt="image" src="https://github.com/user-attachments/assets/b6824ddf-440e-4487-8269-f2ff57eaf2bc" />
+
+## APP
+<img width="754" height="1600" alt="image" src="https://github.com/user-attachments/assets/61abb838-78be-4587-a2df-a20e5e96f436" />
+
+<img width="768" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae0db9b7-0ae4-48f0-b35f-7d51c23a103b" />
+
+<img width="761" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0314b72-7228-440f-ac71-c2959b509f60" />
+
+<img width="758" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c1555d5-f3c5-4f80-93d1-6033f1d2f03e" />
+
+<img width="756" height="1600" alt="image" src="https://github.com/user-attachments/assets/d3f9d2e4-061b-40c2-8b91-331014bec7a3" />
+
+<img width="768" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb23abea-f844-45c3-ae89-6034d3350674" />
 
 
